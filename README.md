@@ -4,7 +4,7 @@ Zalgo's Command is a mod which allows modpacks and servers to group multiple com
 [![Nodecraft](https://i.imgur.com/sz9PUmK.png)](https://nodecraft.com/r/darkhax)    
 This project is sponsored by Nodecraft. Use code [Darkhax](https://nodecraft.com/r/darkhax) for 30% off your first month of service!
 
-#Usage
+# Usage
 This mod adds the zalgo command. This command accepts two parameters, the first is the name of the player. `@p` is a valid substitute for the player's name. The second argument is the name of the command group to execute. You can execute multiple command groups with one command! Also, a pro tip, you can use `@p` in the commands which you add to the command group, and the player from the base command will be used. 
 
 # Configuration

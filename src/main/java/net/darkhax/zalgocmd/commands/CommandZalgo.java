@@ -1,5 +1,6 @@
-package net.darkhax.zalgocmd;
+package net.darkhax.zalgocmd.commands;
 
+import net.darkhax.zalgocmd.ZalgosCommand;
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.CommandException;
 import net.minecraft.command.ICommandSender;
